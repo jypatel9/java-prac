@@ -26,7 +26,7 @@ public class TaylorSeries {
     }
 
     public static void main(String[] args) {
-        System.out.println(e(4, 10));
+//        System.out.println(e(4, 10));
         System.out.println("faster way : " + fasterWay(1, 10));
     }
 }
